@@ -1,4 +1,4 @@
-![Python Interview Flash Cards](hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw2i8N3n2ti7NHXqoSmAExFf&ust=1594738308784000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIijuae9yuoCFQAAAAAdAAAAABAD)
+![Python Interview Flash Cards](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png)
 
 
 # Quizzler ❓
