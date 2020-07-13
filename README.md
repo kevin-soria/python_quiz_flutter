@@ -5,7 +5,7 @@
 
 ## Our Goal
 
-To help you build confidence and knowledge on Python for your next interview to help you ace your interview!!! 
+To help you build confidence and knowledge on Python for your next interview to help you ace your it and get your dream job!!!! 
 
 
 ## What you will create
